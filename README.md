@@ -8,7 +8,7 @@
 
 ### 🧪 Current Side Quest
 
-Coding on [Solana](https://solana.com) with [Anchor](https://book.anchor-lang.com), sometimes without it too. Flexing dev skills and staying on the edge.
+Coding on [Solana](https://solana.com) with [Anchor](https://book.anchor-lang.com), sometimes without it too (I can ride my bike with no handlebars 🎶). Flexing dev skills and staying on the edge.
 
 ```rust
 #[program]
