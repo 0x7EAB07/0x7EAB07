@@ -1,6 +1,6 @@
 # 🫖 Teapot in Wonderland
 
-> _“Down the rabbit hole, into the blockchain wonderland we go.”_
+> _"Down the rabbit hole, into the blockchain wonderland we go."_
 
 **@0x7EAB07** — Breaking the web (in a good way) | Builder on Solana and the blockchain | Writing code that runs faster than time
 
@@ -8,7 +8,7 @@
 
 ### 🧪 Current Side Quest
 
-Coding on [Solana](https://solana.com) with [Anchor](https://book.anchor-lang.com), sometimes without it too (I can ride my bike with no handlebars 🎶). Flexing dev skills and staying on the edge.
+Coding on [Solana](https://solana.com) with [Anchor](https://book.anchor-lang.com), sometimes without it too (I can ride my bike with no handlebars 🎶). Also building on [SUI](https://sui.io/) with the [MOVE](https://github.com/move-language/move) language. Flexing dev skills and staying on the edge.
 
 ```rust
 #[program]
@@ -29,6 +29,8 @@ pub mod wonderland {
 [![Solana](https://img.shields.io/badge/Solana-3BFFAD?style=for-the-badge&logo=solana)](https://solana.com)
 [![Anchor](https://img.shields.io/badge/Anchor-ff4c70?style=for-the-badge)](https://book.anchor-lang.com/)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
+[![SUI](https://img.shields.io/badge/SUI-4CAFED?style=for-the-badge&logo=sui)](https://sui.io/)
+[![MOVE](https://img.shields.io/badge/MOVE-5A5AFF?style=for-the-badge)](https://github.com/move-language/move)
 [![HackerHouse](https://img.shields.io/badge/HackerHouse-Alum-orange?style=for-the-badge)](https://solana.com/events/hacker-house)
 
 ---
@@ -55,4 +57,4 @@ pub mod wonderland {
 
 ### 🧠 Quote of the day:
 
-> _“We're all mad here... but some of us write smart contracts.”_
+> _"We're all mad here... but some of us write smart contracts."_
