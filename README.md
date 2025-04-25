@@ -2,7 +2,7 @@
 
 > _"Down the rabbit hole, into the blockchain wonderland we go."_
 
-**@0x7EAB07** — Breaking the web (in a good way) | Builder on Solana and the blockchain | Writing code that runs faster than time
+**@0x7EAB07** — Breaking the web (in a good way) | Builder on Solana/Sui/Eth and the blockchain | Writing code that runs faster than time
 
 ---
 
