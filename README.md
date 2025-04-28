@@ -1,14 +1,28 @@
-# 🫖 Teapot in Wonderland
+# <img src="https://em-content.zobj.net/thumbs/120/apple/354/teapot_1fad6.png" width="40" height="40"/> Teapot in Wonderland
+
+<div align="center">
 
 > _"Down the rabbit hole, into the blockchain wonderland we go."_
 
-**@0x7EAB07** — Breaking the web (in a good way) | Builder on Solana/Sui/Eth and the blockchain | Writing code that runs faster than time
+**[@0x7EAB07](https://github.com/0x7EAB07)** — Breaking the web (in a good way) | Blockchain Architect | Writing code that runs faster than time
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/0x7EAB07)
+[![Profile views](https://komarev.com/ghpvc/?username=0x7EAB07&color=blueviolet&style=for-the-badge)](https://twitter.com/0x7EAB07)
+
+</div>
 
 ---
 
-### 🧪 Current Side Quest
+## 🧩 Blockchain Odyssey
 
-Coding on [Solana](https://solana.com) with [Anchor](https://book.anchor-lang.com), sometimes without it too (I can ride my bike with no handlebars 🎶). Also building on [SUI](https://sui.io/) with the [MOVE](https://github.com/move-language/move) language. Flexing dev skills and staying on the edge.
+I craft decentralized dreams across multiple ecosystems:
+
+- **Solana** ecosystem with Anchor framework and native Rust development
+- **SUI** network leveraging the MOVE language for secure assets
+- **Ethereum** smart contracts with Solidity and EVM optimization
+- **Frontend Mastery** with React and React Native for seamless cross-platform experiences
+
+Each blockchain is a different rabbit hole, yet they all lead to innovation.
 
 ```rust
 #[program]
@@ -22,39 +36,58 @@ pub mod wonderland {
 }
 ```
 
----
+```rust
+module welcome::welcome;
 
-### 🧰 Stack & Tools
+public struct WelcomeObject has key, store {
+    id: UID,
+    message: String,
+}
 
-[![Solana](https://img.shields.io/badge/Solana-3BFFAD?style=for-the-badge&logo=solana)](https://solana.com)
-[![Anchor](https://img.shields.io/badge/Anchor-ff4c70?style=for-the-badge)](https://book.anchor-lang.com/)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
-[![SUI](https://img.shields.io/badge/SUI-4CAFED?style=for-the-badge&logo=sui)](https://sui.io/)
-[![MOVE](https://img.shields.io/badge/MOVE-5A5AFF?style=for-the-badge)](https://github.com/move-language/move)
-[![HackerHouse](https://img.shields.io/badge/HackerHouse-Alum-orange?style=for-the-badge)](https://solana.com/events/hacker-house)
+public entry fun create_welcome(ctx: &mut TxContext) {
+    let welcome_obj = WelcomeObject {
+        id: object::new(ctx),
+        message: std::string::utf8(b"Welcome to Wonderland!"),
+    };
+    transfer::public_transfer(welcome_obj, tx_context::sender(ctx));
+}
 
----
-
-### 📊 Stats & Street Cred
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x7EAB07&layout=compact&theme=radical)
-
----
-
-### 🧭 GitHub Wonderland Map
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0x7EAB07&theme=github-compact)
+```
 
 ---
 
-### 👁 Visitor Counter
+## 🧰 Technical Arsenal
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0x7EAB07&color=brightgreen" alt="visitor badge"/>
-</p>
+<div align="center">
+
+[![Solana](https://img.shields.io/badge/Solana-black?style=for-the-badge&logo=solana)](https://solana.com)
+[![Anchor](https://img.shields.io/badge/Anchor-black?style=for-the-badge&logo=anchor&logoColor=white)](https://book.anchor-lang.com/)
+[![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)](https://www.rust-lang.org/)
+[![SUI](https://img.shields.io/badge/SUI-black?style=for-the-badge&logo=sui)](https://sui.io/)
+[![MOVE](https://img.shields.io/badge/MOVE-black?style=for-the-badge)](https://github.com/move-language/move)
+[![Ethereum](https://img.shields.io/badge/Ethereum-black?style=for-the-badge&logo=ethereum)](https://ethereum.org)
+[![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity)](https://soliditylang.org/)
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react)](https://reactnative.dev/)
+
+</div>
 
 ---
 
-### 🧠 Quote of the day:
+## 📊 Developer Metrics
 
-> _"We're all mad here... but some of us write smart contracts."_
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7EAB07&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x7EAB07&theme=react-dark" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🔮 Blockchain Philosophy
+
+> _"We're all mad here... but some of us write smart contracts that change the world."_
+
+I build with security, scalability, and user experience in mind. Every line of code is an opportunity to reshape how users interact with decentralized systems.
