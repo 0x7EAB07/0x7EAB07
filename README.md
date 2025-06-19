@@ -83,11 +83,3 @@ public entry fun create_welcome(ctx: &mut TxContext) {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x7EAB07&theme=react-dark" alt="GitHub Activity Graph" />
 </div>
-
----
-
-## 🔮 Blockchain Philosophy
-
-> _"We're all mad here... but some of us write smart contracts that change the world."_
-
-I build with security, scalability, and user experience in mind. Every line of code is an opportunity to reshape how users interact with decentralized systems.
