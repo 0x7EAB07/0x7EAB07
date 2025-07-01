@@ -2,9 +2,7 @@
 
 <div align="center">
 
-> _"Down the rabbit hole, into the blockchain wonderland we go."_
-
-**[@0x7EAB07](https://github.com/0x7EAB07)** — Breaking the web (in a good way) | Blockchain Architect | Writing code that runs faster than time
+**[@0x7EAB07](https://github.com/0x7EAB07)** — Breaking the web (in a good way) | Blockchain, AI, Web Architect
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/0x7EAB07)
 [![Profile views](https://komarev.com/ghpvc/?username=0x7EAB07&color=blueviolet&style=for-the-badge)](https://twitter.com/0x7EAB07)
