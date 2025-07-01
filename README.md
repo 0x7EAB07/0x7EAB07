@@ -13,7 +13,7 @@
 
 ## 🧩 Blockchain Odyssey
 
-I craft decentralized dreams across multiple ecosystems:
+I build decentralized apps across multiple ecosystems:
 
 - **Solana** ecosystem with Anchor framework, Pinocchio and native Rust development
 - **SUI** network leveraging the MOVE language for secure assets
