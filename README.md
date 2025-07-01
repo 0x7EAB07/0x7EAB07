@@ -15,7 +15,7 @@
 
 I craft decentralized dreams across multiple ecosystems:
 
-- **Solana** ecosystem with Anchor framework and native Rust development
+- **Solana** ecosystem with Anchor framework, Pinocchio and native Rust development
 - **SUI** network leveraging the MOVE language for secure assets
 - **Ethereum** smart contracts with Solidity and EVM optimization
 - **Frontend Mastery** with React and React Native for seamless cross-platform experiences
