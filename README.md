@@ -17,4 +17,4 @@ I'm a rust-proficient developer with high expertise on web3 and specialized on S
 
 Also, I have a strong background working with react, react-native, postgres, firebase, and a bunch of other nice technologies.
 
-I've also worked with Modern LLM AI sdks such as OpenAI and Google Vertex, plus have been playing with RAG and other limitations.
+I've also worked with Modern LLM AI sdks such as OpenAI and Google Vertex, plus have been playing with RAG and other AI enhancers.
